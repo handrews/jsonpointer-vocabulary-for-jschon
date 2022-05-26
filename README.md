@@ -1,0 +1,1 @@
+# jsonpointer-vocabulary-for-jschon
